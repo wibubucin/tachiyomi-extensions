@@ -25948,21 +25948,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: YugenMangas",
+    "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.33.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "YugenMangas",
+        "name": "Yugen Mangás",
         "lang": "pt-BR",
-        "id": "140083806094083708",
-        "baseUrl": "https://yugenmangas.com.br",
+        "id": "386974442889227227",
+        "baseUrl": "https://yugenmangas.net.br",
         "versionId": 1,
         "hasCloudflare": 1
       }
